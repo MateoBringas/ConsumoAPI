@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/examples/android-proguard-example/src" />
+      <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/extras/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/extras/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/graal-native-image-test/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/gson/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/gson/src/main/java-templates" />
+      <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/gson/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/metrics/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/proto/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/proto/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/shrinker-test/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/gson-main.zip!/gson-main/shrinker-test/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
